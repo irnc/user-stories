@@ -1,0 +1,6 @@
+- http://www.agilemodeling.com/artifacts/userStory.htm
+- https://www.atlassian.com/agile/delivery-vehicles
+- https://msdn.microsoft.com/en-us/library/dd997897.aspx
+- https://www.mountaingoatsoftware.com/blog/the-difference-between-a-story-and-a-task
+- http://www.telerik.com/blogs/a-few-tips-how-to-decompose-user-stories-and-assign-tasks
+- http://scrummethodology.com/scrum-effort-estimation-and-story-points/
