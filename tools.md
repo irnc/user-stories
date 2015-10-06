@@ -1,3 +1,4 @@
 - JIRA
 - Rally
   - https://help.rallydev.com/creating-user-story
+  - https://help.rallydev.com/use-story-hierarchies
